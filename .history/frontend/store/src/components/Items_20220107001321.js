@@ -1,4 +1,6 @@
-function Item () {
+function Items () {
+
+
     return (
         <div>
 
@@ -6,4 +8,4 @@ function Item () {
     )
 }
 
-export default Item;
+export default Items;

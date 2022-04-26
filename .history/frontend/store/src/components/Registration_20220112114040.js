@@ -97,6 +97,14 @@ function Registration () {
 
             <p>-- or --</p>
             <p><Link to="/">Login</Link></p>
+
+
+            {/* <Routes>
+                <Route path="/" element={<Login />} />
+                <Route path="/items" element={<Items />} />
+            </Routes> */}
+
+
         </Box>
     )
 }
